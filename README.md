@@ -1,5 +1,5 @@
 # StackScript
-A "scripting language" interpreter (if you can even call it a language) inspired mostly by GolfScript :-)
+A "scripting language" (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript :-)
 
 Type ```node .``` in the command line inside the folder with the files.
 
