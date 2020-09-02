@@ -1,7 +1,7 @@
 # StackScript
 A "scripting language" (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript :-)
 
-To play around with the language, edit the ```code``` variable inside "index.js" file.
+To play around with the language, edit the ```code``` variable inside "index.js" file (leave \`\` as they are, edit only inside of it).
 
 Type ```node .``` in the command line inside the folder with the files to see the output.
 
