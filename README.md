@@ -21,8 +21,8 @@ Interpreter prepends every value passed to the "stack" (array). There are functi
     
   **\*** -> **multiplies** the first and the second value of the stack, then puts the new value onto the stack, while removing the two multiplied ones
   
-  **/** -> **divides** the second value by the first one of the stack, then puts the new value onto the stack, while removing the two multiplied ones
+  **/** -> **divides** the second value by the first one of the stack, then puts the new value onto the stack, while removing the two divided ones
   
-  **%** -> the second value **modulo** the first value of the stack, then puts the new value onto the stack, while removing the two multiplied ones
+  **%** -> the second value **modulo** the first value of the stack, then puts the new value onto the stack, while removing the two other ones
   
 ### *incomplete yet*
