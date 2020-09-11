@@ -1,5 +1,5 @@
 {
-  "name": "StackHash",
+  "name": "stackhash",
   "version": "1.0.0",
   "description": "A 'programming language' (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript and reverse polish notation",
   "main": "index.js",
