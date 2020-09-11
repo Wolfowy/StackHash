@@ -1,6 +1,21 @@
-const interpreter = require("./interpreter"),
-     code = `27c "[38;2;255;123;123mTEST"+ "asd"+ 27c + "[0m" +`;
+const moduleInt = require("./interpreter"),
+     interpreter = moduleInt[0],
+     st = moduleInt[1],
+     code = `
 
-let output = interpreter(code,true);
+          3:arg;
+     
+          {
+              $arg
+              1:arg
+          }:testA;
+     
+          (testA);
+          arg
+
+          `;
+
+
+let output = interpreter(code);
 
 console.log(output)
