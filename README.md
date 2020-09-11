@@ -1,5 +1,5 @@
-# StackScript
-A "scripting language" (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript :-)
+# StackHash
+A "programming language" (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript :-)
 
 To play around with the language, edit the ```code``` variable inside "index.js" file (leave \`\` as they are, edit only inside of it).
 
