@@ -5,7 +5,7 @@ To play around with the language, edit the ```code``` variable inside "index.js"
 
 Type ```node .``` in the command line inside the folder with the files to see the output.
 
-To see the stack output as an array, just add the ```,false``` to ```let output = interpreter(code);``` in the index.js (should look like: ```let output = interpreter(code, false);```)
+To see the stack output as an array, just add the ```,false``` to ```let output = interpreter(code);``` in the index.js (should look like: ```javascript let output = interpreter(code, false);```)
 
 ## How does the language work?
 
