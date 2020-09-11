@@ -1,11 +1,11 @@
 {
-  "name": "stack",
+  "name": "StackHash",
   "version": "1.0.0",
-  "description": "stackbasedlanguage",
+  "description": "A 'programming language' (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript and reverse polish notation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Maciej 'Wolfowy' Siedlecki",
   "license": "ISC"
 }
