@@ -1,11 +1,11 @@
 # StackHash
-A "programming language" (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript :-)
+A "programming language" (if you can even call it a language) interpreter written in javascript inspired mostly by GolfScript and reverse polish notation :-)
 
 To play around with the language, edit the ```code``` variable inside "index.js" file (leave \`\` as they are, edit only inside of it).
 
 Type ```node .``` in the command line inside the folder with the files to see the output.
 
-To see the stack output as an array, just delete the ```,true``` from ```let output = interpreter(code,true);``` in the index.js
+To see the stack output as an array, just add the ```,false``` to ```let output = interpreter(code);``` in the index.js (should look like: ```let output = interpreter(code, false);```)
 
 ## How does the language work?
 
